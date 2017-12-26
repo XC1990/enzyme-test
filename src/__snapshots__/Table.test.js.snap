@@ -1,0 +1,224 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Table /> renders correctly 1`] = `
+<div
+  className="MuiPaper-root-3 MuiPaper-shadow2-7 MuiPaper-rounded-4 BasicTable-root-1"
+>
+  <table
+    className="MuiTable-root-30 BasicTable-table-2"
+  >
+    <thead
+      className="MuiTableHead-root-31"
+    >
+      <tr
+        className="MuiTableRow-root-32 MuiTableRow-head-33"
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-paddingDefault-40 MuiTableCell-head-39"
+        >
+          Dessert (100g serving)
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40 MuiTableCell-head-39"
+        >
+          Calories
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40 MuiTableCell-head-39"
+        >
+          Fat (g)
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40 MuiTableCell-head-39"
+        >
+          Carbs (g)
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40 MuiTableCell-head-39"
+        >
+          Protein (g)
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      className="MuiTableBody-root-44"
+    >
+      <tr
+        className="MuiTableRow-root-32"
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-paddingDefault-40"
+        >
+          Frozen yoghurt
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          158
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          6
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          24
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          4
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root-32"
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-paddingDefault-40"
+        >
+          Ice cream sandwich
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          237
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          9
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          37
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          4.3
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root-32"
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-paddingDefault-40"
+        >
+          Eclair
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          262
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          16
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          24
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          6
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root-32"
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-paddingDefault-40"
+        >
+          Cupcake
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          305
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          3.7
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          67
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          4.3
+        </td>
+      </tr>
+      <tr
+        className="MuiTableRow-root-32"
+      >
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-paddingDefault-40"
+        >
+          Gingerbread
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          356
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          16
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          49
+        </td>
+        <td
+          aria-sort={null}
+          className="MuiTableCell-root-37 MuiTableCell-numeric-38 MuiTableCell-paddingDefault-40"
+        >
+          3.9
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

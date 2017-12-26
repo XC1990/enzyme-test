@@ -4,10 +4,11 @@ import App from './App';
 import { shallow } from 'enzyme';
 
 
-describe('<MyComponent />', () => {
+describe('<App />', () => {
   beforeEach(() => {
     console.log('test')
   });
+
   it('renders "App"', () => {
     const div = document.createElement('div');
     ReactDOM.render(<App />, div);
